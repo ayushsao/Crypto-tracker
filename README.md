@@ -63,7 +63,6 @@ Crypto Tracker is a modern web application designed to help users track cryptocu
 - Enhanced analytics dashboard
 - Mobile application development
 
-## Contact
-(https://github.com/ayushsao)
+
 
 
